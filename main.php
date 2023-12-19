@@ -121,65 +121,65 @@ $conn->close();
 
             <div class="question">
                 <p><?php echo $pyt_id["pyt_id2"]; ?></p>
-                <input type="radio" name="q2" value="a"><br>
-                <input type="radio" name="q2" value="b"><br>
-                <input type="radio" name="q2" value="c"><br>
+                <input type="radio" name="q2" value="a"><?php echo $var1_id["var1_id2"]; ?><br>
+                <input type="radio" name="q2" value="b"><?php echo $var2_id["var2_id2"]; ?><br>
+                <input type="radio" name="q2" value="c"><?php echo $var3_id["var3_id2"]; ?><br>
             </div>
 
             <div class="question">
                 <p><?php echo $pyt_id["pyt_id3"]; ?></p>
-                <input type="radio" name="q3" value="a"><br>
-                <input type="radio" name="q3" value="b"><br>
-                <input type="radio" name="q3" value="c"><br>
+                <input type="radio" name="q3" value="a"><?php echo $var1_id["var1_id3"]; ?><br>
+                <input type="radio" name="q3" value="b"><?php echo $var2_id["var2_id3"]; ?><br>
+                <input type="radio" name="q3" value="c"><?php echo $var3_id["var3_id3"]; ?><br>
             </div>
 
             <div class="question">
-                <p><?php echo $pyt_id["pyt_id1"]; ?></p>
-                <input type="radio" name="q4" value="a"> a. Złośliwe oprogramowanie<br>
-                <input type="radio" name="q4" value="b"> b. Krótki film animowany<br>
-                <input type="radio" name="q4" value="c"> c. Szybki internetowy router<br>
+                <p><?php echo $pyt_id["pyt_id4"]; ?></p>
+                <input type="radio" name="q4" value="a"> <?php echo $var1_id["var1_id4"]; ?><br>
+                <input type="radio" name="q4" value="b"> <?php echo $var2_id["var2_id4"]; ?><br>
+                <input type="radio" name="q4" value="c"> <?php echo $var3_id["var3_id4"]; ?><br>
             </div>
 
             <div class="question">
-                <p><?php echo $pyt_id["pyt_id1"]; ?></p>
-                <input type="radio" name="q5" value="a"> a. Przejęcie kontroli nad danym użytkownikiem lub systemem komputerowym<br>
-                <input type="radio" name="q5" value="b"> b. Legalne łamanie zabezpieczeń systemu<br>
-                <input type="radio" name="q5" value="c"> c. Kraken - gigantyczne morskie stworzenie<br>
+                <p><?php echo $pyt_id["pyt_id5"]; ?></p>
+                <input type="radio" name="q5" value="a"><?php echo $var1_id["var1_id5"]; ?> <br>
+                <input type="radio" name="q5" value="b"><?php echo $var2_id["var2_id5"]; ?><br>
+                <input type="radio" name="q5" value="c"><?php echo $var3_id["var3_id5"]; ?><br>
             </div>
 
             <div class="question">
-                <p><?php echo $pyt_id["pyt_id1"]; ?></p>
-                <input type="radio" name="q6" value="a"> a. Przejście na emeryturę<br>
-                <input type="radio" name="q6" value="b"> b. Przejęcie kontroli nad danym użytkownikiem lub systemem komputerowym<br>
-                <input type="radio" name="q6" value="c"> c. Inwazja kosmitów<br>
+                <p><?php echo $pyt_id["pyt_id6"]; ?></p>
+                <input type="radio" name="q6" value="a"> <?php echo $var1_id["var1_id6"]; ?><br>
+                <input type="radio" name="q6" value="b"> <?php echo $var2_id["var2_id6"]; ?><br>
+                <input type="radio" name="q6" value="c"> <?php echo $var3_id["var3_id6"]; ?><br>
             </div>
 
             <div class="question">
-                <p><?php echo $pyt_id["pyt_id1"]; ?></p>
-                <input type="radio" name="q7" value="a"> a. Przejęcie numeru telefonu ofiary w celu przejęcia konta<br>
-                <input type="radio" name="q7" value="b"> b. Wymiana kart SIM między użytkownikami<br>
-                <input type="radio" name="q7" value="c"> c. Symulowanie ślubu<br>
+                <p><?php echo $pyt_id["pyt_id7"]; ?></p>
+                <input type="radio" name="q7" value="a"> <?php echo $var1_id["var1_id7"]; ?><br>
+                <input type="radio" name="q7" value="b"> <?php echo $var2_id["var2_id7"]; ?><br>
+                <input type="radio" name="q7" value="c"> <?php echo $var3_id["var3_id7"]; ?><br>
             </div>
 
             <div class="question">
-                <p><?php echo $pyt_id["pyt_id1"]; ?></p>
-                <input type="radio" name="q8" value="a"> a. Publiczne ujawnianie prywatnych informacji o danej osobie<br>
-                <input type="radio" name="q8" value="b"> b. Nowoczesny sposób gotowania<br>
-                <input type="radio" name="q8" value="c"> c. Technika rzeźbienia w drewnie<br>
+                <p><?php echo $pyt_id["pyt_id8"]; ?></p>
+                <input type="radio" name="q8" value="a"><?php echo $var1_id["var1_id8"]; ?><br>
+                <input type="radio" name="q8" value="b"> <?php echo $var2_id["var2_id8"]; ?><br>
+                <input type="radio" name="q8" value="c"><?php echo $var3_id["var3_id8"]; ?><br>
             </div>
 
             <div class="question">
-                <p><?php echo $pyt_id["pyt_id1"]; ?></p>
-                <input type="radio" name="q9" value="a"> a. Wyzywanie ludzi w grach<br>
-                <input type="radio" name="q9" value="b"> b. Nielegalne pozyskiwanie poufnych informacji<br>
-                <input type="radio" name="q9" value="c"> c. Automatyczne strzelanie w grach<br>
+                <p><?php echo $pyt_id["pyt_id9"]; ?></p>
+                <input type="radio" name="q9" value="a"> <?php echo $var1_id["var1_id9"]; ?><br>
+                <input type="radio" name="q9" value="b"><?php echo $var2_id["var2_id9"]; ?><br>
+                <input type="radio" name="q9" value="c"> <?php echo $var3_id["var3_id9"]; ?><br>
             </div>
 
             <div class="question">
-                <p><?php echo $pyt_id["pyt_id1"]; ?></p>
-                <input type="radio" name="q10" value="a"> a. Robienie zakłóceń na kanałach radiowych<br>
-                <input type="radio" name="q10" value="b"> b. Przechwytywanie nieautoryzowanego dostępu do sieci Wi-Fi<br>
-                <input type="radio" name="q10" value="c"> c. Masowe wysyłanie zdjęć airdroppem<br>
+                <p><?php echo $pyt_id["pyt_id10"]; ?></p>
+                <input type="radio" name="q10" value="a"> <?php echo $var1_id["var1_id10"]; ?><br>
+                <input type="radio" name="q10" value="b"> <?php echo $var2_id["var2_id10"]; ?><br>
+                <input type="radio" name="q10" value="c"> <?php echo $var3_id["var3_id10"]; ?><br>
             </div>
 
             <!-- Przycisk do wysłania formularza -->
