@@ -1,0 +1,59 @@
+Jakie jest podstawowe narzędzie stosowane do ochrony systemów przed nieautoryzowanym dostępem?
+a) Firewall
+b) Antywirus
+c) VPN
+Odpowiedź: a) Firewall
+
+Która z poniższych jest techniką stosowaną do przechwytywania poufnych informacji, takich jak hasła?
+a) Spoofing
+b) Phishing
+c) Ransomware
+Odpowiedź: b) Phishing
+
+Jakie zagrożenie związane z bezpieczeństwem dotyczy niewłaściwego zabezpieczenia danych przechowywanych na urządzeniach przenośnych?
+a) Malware
+b) Shoulder surfing
+c) Data leakage
+Odpowiedź: c) Data leakage
+
+Która z poniższych metod jest stosowana do zabezpieczania komunikacji internetowej poprzez ukrywanie treści?
+a) SSL
+b) FTP
+c) ICMP
+Odpowiedź: a) SSL
+
+Co oznacza skrót "DDoS" w kontekście cyberbezpieczeństwa?
+a) Distributed Denial of Service
+b) Data Disclosure on Server
+c) Dual Data Storage
+Odpowiedź: a) Distributed Denial of Service
+
+Która forma ataku obejmuje wprowadzanie złośliwego oprogramowania poprzez podszywanie się pod legalne pliki lub programy?
+a) Spoofing
+b) Injection
+c) Encryption
+Odpowiedź: b) Injection
+
+Jakie jest zalecane podejście do zarządzania hasłami w celu zwiększenia bezpieczeństwa?
+a) Używanie jednego hasła dla wszystkich kont
+b) Regularna zmiana prostych haseł
+c) Używanie długich i złożonych haseł
+Odpowiedź: c) Używanie długich i złożonych haseł
+
+Która z poniższych metod jest wykorzystywana do zabezpieczania połączeń bezprzewodowych?
+a) WEP
+b) WPA
+c) MAC filtering
+Odpowiedź: b) WPA
+
+Co to jest "zero-day exploit" w kontekście cyberbezpieczeństwa?
+a) Atak na witrynę internetową
+b) Atak wykorzystujący nieznane wcześniej luki w zabezpieczeniach
+c) Atak na system operacyjny
+Odpowiedź: b) Atak wykorzystujący nieznane wcześniej luki w zabezpieczeniach
+
+Która z poniższych praktyk jest skuteczną formą zapobiegania atakom typu ransomware?
+a) Regularne aktualizacje oprogramowania
+b) Udostępnianie publicznych kluczy szyfrowania
+c) Klikanie w podejrzane linki w e-mailach
+Odpowiedź: a) Regularne aktualizacje oprogramowania
