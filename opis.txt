@@ -1,12 +1,23 @@
 Skrócony Opis: 
+
 Strona daje nam możliwość sprawdzenia własnej wiedzy na temat bezpieczeństwa w internecie. 
 Jest to Egzamin z sześcioma pytaniami na temat bezpieczeństwa w inetrnecie. 
 Sześć pytań ma ułatwić ocenianie nauczycioelom w szkołach poniewważ Polski system oceniania składa sie z ocen 1-6.
 
+
+
 Pomysł strony:
-Głównym zamysłem tej strony jest edukowanie dzieci i młodzieży o bezpieczeństwie poruszania sie po interneie
-bo jak wiadomo informatyka jedt dziedziną, która bardzo szybko się rozwija a Dzieci i Młodzież używają coraz częściej internetu oraz wielu aplikacji, które nie koniecznie są bezpieczne.
-W tym celu stworzyliśmy egzamin, który ma uczyć na temat 
+
+Głównym zamysłem tej strony jest edukowanie dzieci i młodzieży o bezpieczeństwie poruszania sie po interneie.
+Jak wiadomo informatyka jest dziedziną, która bardzo szybko się rozwija a Dzieci i Młodzież używają coraz częściej internetu oraz wielu aplikacji, które nie koniecznie są bezpieczne.
+W tym celu stworzyliśmy egzamin, który ma nauczać i zapobiegać różnym niechcianym sytuacją dla dzieci i młodzieży ale również osób pełnoletnich. 
+Egzamin jest bardzo przyjemny do rozwiązywania, nie jest on długi ale można się nauczyć, ponieważ po kilku krotnym wykonaniu tego egzaminu 
+będziemy mogli już znać podstawy ochrony danych osobistych oraz jak zabezpieczać się przed zagrożeniami
+
+
+
+Działanie Strony:
+
 
 
 
